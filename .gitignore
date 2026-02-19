@@ -1,3 +1,6 @@
+old/
+notes.txt
+test.log
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
