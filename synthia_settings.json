@@ -1,0 +1,17 @@
+{
+    "backend": "mpd",
+    "update_rate": 1,
+    "volume": 50,
+    "starting_folder": "/home/yobleck/Music/",
+    "sort_mode": "time",
+    "sort_reversed": false,
+    "main_clr": "32",
+    "dir_clr": "31",
+    "file_clr": "32",
+    "m3u8_clr": "34",
+    "bg_clr": "40",
+    "misc_clr": "36",
+    "mocp_settings": {},
+    "mpd_settings": {"address": "/home/yobleck/.config/mpd/socket", "port": 6600},
+    "xmms2_settings": {"address": ""}
+} 
